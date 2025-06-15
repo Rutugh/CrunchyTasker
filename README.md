@@ -158,3 +158,4 @@ Inside backend folder:
 - `npm run dev`: Starts backend using nodemon.
 - `npm start`: Starts backend without nodemon.
 # CrunchyTask-Task-Manager
+# CrunchyTask-Task-Manager
